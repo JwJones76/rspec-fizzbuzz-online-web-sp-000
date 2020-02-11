@@ -1,2 +1,1 @@
-def fizzbuzz(input)
-end
+
