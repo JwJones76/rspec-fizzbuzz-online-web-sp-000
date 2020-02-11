@@ -9,5 +9,6 @@ def fizzbuzz(input)
    
  elsif input % 5 == 0 
    puts "Buzz"
-end
-
+    
+    end
+ end 
