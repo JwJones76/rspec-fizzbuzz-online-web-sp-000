@@ -12,3 +12,5 @@ def fizzbuzz(input)
     
     end
  end 
+end
+end
