@@ -5,6 +5,12 @@ def fizzbuzz(input)
    puts "Fizzbuzz"
  
  elsif input % 3 == 0
+   puts "Fizz"
+   
+ elsif input % 5 == 0 
+   puts "Buzz"
+   
+ else 
 
 
 
