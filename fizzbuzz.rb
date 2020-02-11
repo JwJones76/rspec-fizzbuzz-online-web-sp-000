@@ -2,9 +2,9 @@ def fizzbuzz(any)
   if any % 3 == 0 && any % 5 == 0
       return "FizzBuzz"
     elsif any % 3 == 0
-        word="Fizz"
+        return "Fizz"
       elsif any % 5 == 0
-          word="Buzz"
+          return "Buzz"
     else
       puts "Not divisible by 3 or 5"
   end 
