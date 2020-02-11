@@ -1,4 +1,4 @@
-def fizzbuzz(fizz)
+def fizzbuzz.to_i
    if    3
     puts "Fizz"
    elsif 5
